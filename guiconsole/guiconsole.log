@@ -1,0 +1,293 @@
+ INFO root [2016-07-04 11:49:04,418] - NetworkInterface::recreateListeningSocket(INTERNAL): bound to all interfaces with default route interface on 192.168.191.1 ( 192.168.191.1:63745 )
+ INFO root [2016-07-04 11:49:04,419] - NetworkInterface::recreateListeningSocket(INTERNAL): address 192.168.191.1:63745, SOMAXCONN=5.
+ INFO root [2016-07-04 11:49:04,565] - ThreadPool::createThreadPool: creating  threadpool...
+ INFO root [2016-07-04 11:49:04,565] - ThreadPool::createThreadPool: successfully(1), newThreadCount=1, normalMaxThreadCount=1, maxThreadCount=16
+ INFO root [2016-07-04 11:49:04,718] - ThreadPool::addTask: new Thread, currThreadCount: 2
+ INFO root [2016-07-04 11:49:04,719] - ThreadPool::addTask: new Thread, currThreadCount: 3
+ INFO root [2016-07-04 11:49:04,720] - ThreadPool::addTask: new Thread, currThreadCount: 4
+ INFO root [2016-07-04 11:49:04,721] - ThreadPool::addTask: new Thread, currThreadCount: 5
+ WARN root [2016-07-04 11:49:05,031] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20550, errorno=10048
+ WARN root [2016-07-04 11:49:05,034] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20550, errorno=10048
+ WARN root [2016-07-04 11:49:05,034] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20550, errorno=10048
+ WARN root [2016-07-04 11:49:05,354] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20621, errorno=10048
+ERROR root [2016-07-04 11:49:10,730] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:49:11,043] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:49:11,044] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 11:49:11,355] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20414, errorno=10048
+ERROR root [2016-07-04 11:49:11,374] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 11:49:11,687] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20485, errorno=10048
+ERROR root [2016-07-04 11:49:16,744] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:49:17,045] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:49:17,389] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:49:17,699] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ INFO root [2016-07-04 11:54:04,727] - ThreadPool::removeHangThread: thread.1036 is destroy. currentFreeThreadCount:4, currentThreadCount:4
+DEBUG root [2016-07-04 11:54:04,728] - TPThread::~TPThread(): 0x40ad770
+ INFO root [2016-07-04 11:54:17,045] - ThreadPool::removeHangThread: thread.996 is destroy. currentFreeThreadCount:3, currentThreadCount:3
+DEBUG root [2016-07-04 11:54:17,045] - TPThread::~TPThread(): 0x1e0a6c0
+ INFO root [2016-07-04 11:54:17,389] - ThreadPool::removeHangThread: thread.1016 is destroy. currentFreeThreadCount:2, currentThreadCount:2
+DEBUG root [2016-07-04 11:54:17,389] - TPThread::~TPThread(): 0x1e0a790
+ INFO root [2016-07-04 11:54:17,699] - ThreadPool::removeHangThread: thread.1008 is destroy. currentFreeThreadCount:1, currentThreadCount:1
+DEBUG root [2016-07-04 11:54:17,699] - TPThread::~TPThread(): 0x1e0a728
+DEBUG root [2016-07-04 11:55:22,270] - ThreadPool::destroy(): starting size 1.
+ WARN root [2016-07-04 11:55:22,571] - ThreadPool::destroy(): waiting for thread(1)[0x1e0a658,], try=1
+DEBUG root [2016-07-04 11:55:22,971] - TPThread::~TPThread(): 0x1e0a658
+DEBUG root [2016-07-04 11:55:22,971] - ThreadPool::destroy(): successfully!
+ INFO root [2016-07-04 11:55:41,558] - NetworkInterface::recreateListeningSocket(INTERNAL): bound to all interfaces with default route interface on 192.168.191.1 ( 192.168.191.1:64035 )
+ INFO root [2016-07-04 11:55:41,558] - NetworkInterface::recreateListeningSocket(INTERNAL): address 192.168.191.1:64035, SOMAXCONN=5.
+ INFO root [2016-07-04 11:55:41,736] - ThreadPool::createThreadPool: creating  threadpool...
+ INFO root [2016-07-04 11:55:41,736] - ThreadPool::createThreadPool: successfully(1), newThreadCount=1, normalMaxThreadCount=1, maxThreadCount=16
+ INFO root [2016-07-04 11:55:41,869] - ThreadPool::addTask: new Thread, currThreadCount: 2
+ INFO root [2016-07-04 11:55:41,870] - ThreadPool::addTask: new Thread, currThreadCount: 3
+ INFO root [2016-07-04 11:55:41,871] - ThreadPool::addTask: new Thread, currThreadCount: 4
+ INFO root [2016-07-04 11:55:41,872] - ThreadPool::addTask: new Thread, currThreadCount: 5
+ WARN root [2016-07-04 11:55:42,187] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20748, errorno=10048
+ WARN root [2016-07-04 11:55:42,200] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20748, errorno=10048
+ WARN root [2016-07-04 11:55:42,202] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20748, errorno=10048
+ WARN root [2016-07-04 11:55:42,523] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20868, errorno=10048
+ERROR root [2016-07-04 11:55:47,874] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:55:48,201] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:55:48,212] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 11:55:48,522] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20661, errorno=10048
+ERROR root [2016-07-04 11:55:48,533] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 11:55:48,848] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20732, errorno=10048
+ERROR root [2016-07-04 11:55:53,875] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:55:54,202] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:55:54,532] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:55:54,861] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ INFO root [2016-07-04 11:57:28,824] - NetworkInterface::recreateListeningSocket(INTERNAL): bound to all interfaces with default route interface on 192.168.191.1 ( 192.168.191.1:64143 )
+ INFO root [2016-07-04 11:57:28,824] - NetworkInterface::recreateListeningSocket(INTERNAL): address 192.168.191.1:64143, SOMAXCONN=5.
+ INFO root [2016-07-04 11:57:28,907] - ThreadPool::createThreadPool: creating  threadpool...
+ INFO root [2016-07-04 11:57:28,907] - ThreadPool::createThreadPool: successfully(1), newThreadCount=1, normalMaxThreadCount=1, maxThreadCount=16
+ INFO root [2016-07-04 11:57:29,013] - ThreadPool::addTask: new Thread, currThreadCount: 2
+ INFO root [2016-07-04 11:57:29,013] - ThreadPool::addTask: new Thread, currThreadCount: 3
+ INFO root [2016-07-04 11:57:29,014] - ThreadPool::addTask: new Thread, currThreadCount: 4
+ INFO root [2016-07-04 11:57:29,015] - ThreadPool::addTask: new Thread, currThreadCount: 5
+ WARN root [2016-07-04 11:57:29,326] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20177, errorno=10048
+ WARN root [2016-07-04 11:57:29,327] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20177, errorno=10048
+ WARN root [2016-07-04 11:57:29,327] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20177, errorno=10048
+ WARN root [2016-07-04 11:57:29,649] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20248, errorno=10048
+ WARN root [2016-07-04 11:57:29,653] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20248, errorno=10048
+ERROR root [2016-07-04 11:57:35,020] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:57:35,337] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:57:35,660] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:57:35,668] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:57:41,022] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:57:41,339] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:57:41,662] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:57:41,670] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:58:35,987] - Components::delComponent::not found [dbmgr] component:totalcount:0
+ERROR root [2016-07-04 11:58:35,987] - Components::delComponent::not found [baseappmgr] component:totalcount:0
+ERROR root [2016-07-04 11:58:35,987] - Components::delComponent::not found [cellappmgr] component:totalcount:0
+ERROR root [2016-07-04 11:58:35,987] - Components::delComponent::not found [cellapp] component:totalcount:0
+ERROR root [2016-07-04 11:58:35,988] - Components::delComponent::not found [baseapp] component:totalcount:0
+ERROR root [2016-07-04 11:58:35,988] - Components::delComponent::not found [loginapp] component:totalcount:0
+ INFO root [2016-07-04 11:58:36,092] - ThreadPool::addTask: new Thread, currThreadCount: 6
+ INFO root [2016-07-04 11:58:36,093] - ThreadPool::addTask: new Thread, currThreadCount: 7
+ WARN root [2016-07-04 11:58:36,404] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20628, errorno=10048
+ WARN root [2016-07-04 11:58:36,404] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20628, errorno=10048
+ WARN root [2016-07-04 11:58:36,404] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20628, errorno=10048
+ WARN root [2016-07-04 11:58:36,404] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20628, errorno=10048
+ WARN root [2016-07-04 11:58:36,407] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20628, errorno=10048
+ WARN root [2016-07-04 11:58:36,724] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20695, errorno=10048
+ WARN root [2016-07-04 11:58:36,725] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20695, errorno=10048
+ WARN root [2016-07-04 11:58:36,725] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20695, errorno=10048
+ WARN root [2016-07-04 11:58:36,728] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20695, errorno=10048
+ WARN root [2016-07-04 11:58:37,045] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20714, errorno=10048
+ WARN root [2016-07-04 11:58:37,047] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20714, errorno=10048
+ WARN root [2016-07-04 11:58:37,048] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20714, errorno=10048
+ WARN root [2016-07-04 11:58:37,368] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20785, errorno=10048
+ WARN root [2016-07-04 11:58:37,368] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20785, errorno=10048
+ WARN root [2016-07-04 11:58:37,689] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20036, errorno=10048
+ERROR root [2016-07-04 11:58:42,097] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:58:42,414] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:58:42,734] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:58:43,055] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:58:43,379] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:58:43,700] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:58:48,098] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:58:48,415] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+DEBUG root [2016-07-04 11:58:48,843] - ThreadPool::destroy(): starting size 7.
+ WARN root [2016-07-04 11:58:49,143] - ThreadPool::destroy(): waiting for thread(7)[0x1f014b8,0x1f01520,0x1f01588,0x1f015f0,0x1f01658,0x416f630,0x416f698,], try=1
+DEBUG root [2016-07-04 11:58:49,543] - TPThread::~TPThread(): 0x1f014b8
+DEBUG root [2016-07-04 11:58:49,543] - TPThread::~TPThread(): 0x1f01520
+DEBUG root [2016-07-04 11:58:49,543] - TPThread::~TPThread(): 0x1f01588
+DEBUG root [2016-07-04 11:58:49,543] - TPThread::~TPThread(): 0x1f015f0
+DEBUG root [2016-07-04 11:58:49,543] - TPThread::~TPThread(): 0x1f01658
+DEBUG root [2016-07-04 11:58:49,543] - TPThread::~TPThread(): 0x416f630
+DEBUG root [2016-07-04 11:58:49,543] - TPThread::~TPThread(): 0x416f698
+DEBUG root [2016-07-04 11:58:49,543] - ThreadPool::destroy(): successfully!
+DEBUG root [2016-07-04 11:58:49,693] - ThreadPool::destroy(): starting size 5.
+ WARN root [2016-07-04 11:58:49,993] - ThreadPool::destroy(): waiting for thread(5)[0x207d348,0x207d3b0,0x207d418,0x207d480,0x207d4e8,], try=1
+DEBUG root [2016-07-04 11:58:50,393] - TPThread::~TPThread(): 0x207d348
+DEBUG root [2016-07-04 11:58:50,393] - TPThread::~TPThread(): 0x207d3b0
+DEBUG root [2016-07-04 11:58:50,393] - TPThread::~TPThread(): 0x207d418
+DEBUG root [2016-07-04 11:58:50,393] - TPThread::~TPThread(): 0x207d480
+DEBUG root [2016-07-04 11:58:50,393] - TPThread::~TPThread(): 0x207d4e8
+DEBUG root [2016-07-04 11:58:50,393] - ThreadPool::destroy(): successfully!
+ INFO root [2016-07-04 11:59:14,066] - NetworkInterface::recreateListeningSocket(INTERNAL): bound to all interfaces with default route interface on 192.168.191.1 ( 192.168.191.1:64178 )
+ INFO root [2016-07-04 11:59:14,067] - NetworkInterface::recreateListeningSocket(INTERNAL): address 192.168.191.1:64178, SOMAXCONN=5.
+ INFO root [2016-07-04 11:59:14,157] - ThreadPool::createThreadPool: creating  threadpool...
+ INFO root [2016-07-04 11:59:14,158] - ThreadPool::createThreadPool: successfully(1), newThreadCount=1, normalMaxThreadCount=1, maxThreadCount=16
+ INFO root [2016-07-04 11:59:14,271] - ThreadPool::addTask: new Thread, currThreadCount: 2
+ INFO root [2016-07-04 11:59:14,272] - ThreadPool::addTask: new Thread, currThreadCount: 3
+ INFO root [2016-07-04 11:59:14,273] - ThreadPool::addTask: new Thread, currThreadCount: 4
+ INFO root [2016-07-04 11:59:14,274] - ThreadPool::addTask: new Thread, currThreadCount: 5
+ WARN root [2016-07-04 11:59:14,585] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20213, errorno=10048
+ WARN root [2016-07-04 11:59:14,586] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20213, errorno=10048
+DEBUG root [2016-07-04 11:59:15,974] - ThreadPool::destroy(): starting size 5.
+ WARN root [2016-07-04 11:59:16,274] - ThreadPool::destroy(): waiting for thread(5)[0x5514b8,0x551520,0x551588,0x5515f0,0x551658,], try=1
+ WARN root [2016-07-04 11:59:16,574] - ThreadPool::destroy(): waiting for thread(4)[0x5514b8,0x551520,0x551588,0x5515f0,], try=2
+ WARN root [2016-07-04 11:59:16,874] - ThreadPool::destroy(): waiting for thread(4)[0x5514b8,0x551520,0x551588,0x5515f0,], try=3
+ WARN root [2016-07-04 11:59:17,174] - ThreadPool::destroy(): waiting for thread(4)[0x5514b8,0x551520,0x551588,0x5515f0,], try=4
+ WARN root [2016-07-04 11:59:17,474] - ThreadPool::destroy(): waiting for thread(4)[0x5514b8,0x551520,0x551588,0x5515f0,], try=5
+ WARN root [2016-07-04 11:59:17,774] - ThreadPool::destroy(): waiting for thread(4)[0x5514b8,0x551520,0x551588,0x5515f0,], try=6
+ WARN root [2016-07-04 11:59:18,074] - ThreadPool::destroy(): waiting for thread(4)[0x5514b8,0x551520,0x551588,0x5515f0,], try=7
+ WARN root [2016-07-04 11:59:18,374] - ThreadPool::destroy(): waiting for thread(4)[0x5514b8,0x551520,0x551588,0x5515f0,], try=8
+ WARN root [2016-07-04 11:59:18,674] - ThreadPool::destroy(): waiting for thread(4)[0x5514b8,0x551520,0x551588,0x5515f0,], try=9
+ WARN root [2016-07-04 11:59:18,974] - ThreadPool::destroy(): waiting for thread(4)[0x5514b8,0x551520,0x551588,0x5515f0,], try=10
+ WARN root [2016-07-04 11:59:19,274] - ThreadPool::destroy(): waiting for thread(4)[0x5514b8,0x551520,0x551588,0x5515f0,], try=11
+ WARN root [2016-07-04 11:59:19,574] - ThreadPool::destroy(): waiting for thread(4)[0x5514b8,0x551520,0x551588,0x5515f0,], try=12
+ WARN root [2016-07-04 11:59:19,874] - ThreadPool::destroy(): waiting for thread(4)[0x5514b8,0x551520,0x551588,0x5515f0,], try=13
+ WARN root [2016-07-04 11:59:20,174] - ThreadPool::destroy(): waiting for thread(4)[0x5514b8,0x551520,0x551588,0x5515f0,], try=14
+ERROR root [2016-07-04 11:59:20,276] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ERROR root [2016-07-04 11:59:20,276] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 11:59:20,276] - TPThread::threadFunc: task 0x5b9740 not finish, thread.0x5515f0 will exit.
+ WARN root [2016-07-04 11:59:20,276] - TPThread::threadFunc: task 0x5b9840 not finish, thread.0x5514b8 will exit.
+ WARN root [2016-07-04 11:59:20,474] - ThreadPool::destroy(): waiting for thread(2)[0x551520,0x551588,], try=15
+ERROR root [2016-07-04 11:59:20,633] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 11:59:20,633] - TPThread::threadFunc: task 0x5b98c0 not finish, thread.0x551520 will exit.
+ERROR root [2016-07-04 11:59:20,639] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 11:59:20,639] - TPThread::threadFunc: task 0x5b9940 not finish, thread.0x551588 will exit.
+DEBUG root [2016-07-04 11:59:20,874] - TPThread::~TPThread(): 0x5514b8
+DEBUG root [2016-07-04 11:59:20,874] - TPThread::~TPThread(): 0x551520
+DEBUG root [2016-07-04 11:59:20,874] - TPThread::~TPThread(): 0x551588
+DEBUG root [2016-07-04 11:59:20,874] - TPThread::~TPThread(): 0x5515f0
+DEBUG root [2016-07-04 11:59:20,874] - TPThread::~TPThread(): 0x551658
+ WARN root [2016-07-04 11:59:20,874] - ThreadPool::~ThreadPool(): Discarding 4 finished tasks.
+DEBUG root [2016-07-04 11:59:20,874] - ThreadPool::destroy(): successfully!
+ INFO root [2016-07-04 11:59:28,473] - NetworkInterface::recreateListeningSocket(INTERNAL): bound to all interfaces with default route interface on 192.168.191.1 ( 192.168.191.1:64181 )
+ INFO root [2016-07-04 11:59:28,473] - NetworkInterface::recreateListeningSocket(INTERNAL): address 192.168.191.1:64181, SOMAXCONN=5.
+ INFO root [2016-07-04 11:59:28,622] - ThreadPool::createThreadPool: creating  threadpool...
+ INFO root [2016-07-04 11:59:28,622] - ThreadPool::createThreadPool: successfully(1), newThreadCount=1, normalMaxThreadCount=1, maxThreadCount=16
+ INFO root [2016-07-04 11:59:28,740] - ThreadPool::addTask: new Thread, currThreadCount: 2
+ INFO root [2016-07-04 11:59:28,742] - ThreadPool::addTask: new Thread, currThreadCount: 3
+ INFO root [2016-07-04 11:59:28,743] - ThreadPool::addTask: new Thread, currThreadCount: 4
+ INFO root [2016-07-04 11:59:28,744] - ThreadPool::addTask: new Thread, currThreadCount: 5
+ WARN root [2016-07-04 11:59:29,056] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20952, errorno=10048
+ WARN root [2016-07-04 11:59:29,056] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20952, errorno=10048
+ WARN root [2016-07-04 11:59:29,060] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20952, errorno=10048
+ WARN root [2016-07-04 11:59:29,378] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20023, errorno=10048
+ WARN root [2016-07-04 11:59:29,385] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20023, errorno=10048
+ INFO root [2016-07-04 11:59:31,293] - NetworkInterface::recreateListeningSocket(INTERNAL): bound to all interfaces with default route interface on 192.168.191.1 ( 192.168.191.1:64183 )
+ INFO root [2016-07-04 11:59:31,293] - NetworkInterface::recreateListeningSocket(INTERNAL): address 192.168.191.1:64183, SOMAXCONN=5.
+ INFO root [2016-07-04 11:59:31,394] - ThreadPool::createThreadPool: creating  threadpool...
+ INFO root [2016-07-04 11:59:31,395] - ThreadPool::createThreadPool: successfully(1), newThreadCount=1, normalMaxThreadCount=1, maxThreadCount=16
+ INFO root [2016-07-04 11:59:31,508] - ThreadPool::addTask: new Thread, currThreadCount: 2
+ INFO root [2016-07-04 11:59:31,509] - ThreadPool::addTask: new Thread, currThreadCount: 3
+ INFO root [2016-07-04 11:59:31,510] - ThreadPool::addTask: new Thread, currThreadCount: 4
+ INFO root [2016-07-04 11:59:31,511] - ThreadPool::addTask: new Thread, currThreadCount: 5
+ WARN root [2016-07-04 11:59:31,822] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20969, errorno=10048
+ WARN root [2016-07-04 11:59:31,823] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20021, errorno=10048
+ WARN root [2016-07-04 11:59:32,143] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20040, errorno=10048
+DEBUG root [2016-07-04 11:59:32,260] - ThreadPool::destroy(): starting size 5.
+ WARN root [2016-07-04 11:59:32,560] - ThreadPool::destroy(): waiting for thread(5)[0x4ca658,0x4ca6c0,0x4ca728,0x4ca790,0x41a3230,], try=1
+DEBUG root [2016-07-04 11:59:32,748] - ThreadPool::destroy(): starting size 5.
+ WARN root [2016-07-04 11:59:32,860] - ThreadPool::destroy(): waiting for thread(4)[0x4ca658,0x4ca6c0,0x4ca728,0x4ca790,], try=2
+ WARN root [2016-07-04 11:59:33,049] - ThreadPool::destroy(): waiting for thread(5)[0x5214b8,0x521520,0x521588,0x5215f0,0x521658,], try=1
+ WARN root [2016-07-04 11:59:33,160] - ThreadPool::destroy(): waiting for thread(4)[0x4ca658,0x4ca6c0,0x4ca728,0x4ca790,], try=3
+ WARN root [2016-07-04 11:59:33,349] - ThreadPool::destroy(): waiting for thread(4)[0x5214b8,0x521520,0x521588,0x5215f0,], try=2
+ WARN root [2016-07-04 11:59:33,460] - ThreadPool::destroy(): waiting for thread(4)[0x4ca658,0x4ca6c0,0x4ca728,0x4ca790,], try=4
+ WARN root [2016-07-04 11:59:33,649] - ThreadPool::destroy(): waiting for thread(4)[0x5214b8,0x521520,0x521588,0x5215f0,], try=3
+ WARN root [2016-07-04 11:59:33,760] - ThreadPool::destroy(): waiting for thread(4)[0x4ca658,0x4ca6c0,0x4ca728,0x4ca790,], try=5
+ WARN root [2016-07-04 11:59:33,949] - ThreadPool::destroy(): waiting for thread(4)[0x5214b8,0x521520,0x521588,0x5215f0,], try=4
+ WARN root [2016-07-04 11:59:34,060] - ThreadPool::destroy(): waiting for thread(4)[0x4ca658,0x4ca6c0,0x4ca728,0x4ca790,], try=6
+ WARN root [2016-07-04 11:59:34,249] - ThreadPool::destroy(): waiting for thread(4)[0x5214b8,0x521520,0x521588,0x5215f0,], try=5
+ WARN root [2016-07-04 11:59:34,362] - ThreadPool::destroy(): waiting for thread(4)[0x4ca658,0x4ca6c0,0x4ca728,0x4ca790,], try=7
+ WARN root [2016-07-04 11:59:34,549] - ThreadPool::destroy(): waiting for thread(4)[0x5214b8,0x521520,0x521588,0x5215f0,], try=6
+ WARN root [2016-07-04 11:59:34,662] - ThreadPool::destroy(): waiting for thread(4)[0x4ca658,0x4ca6c0,0x4ca728,0x4ca790,], try=8
+ERROR root [2016-07-04 11:59:34,746] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 11:59:34,746] - TPThread::threadFunc: task 0x589740 not finish, thread.0x5214b8 will exit.
+ WARN root [2016-07-04 11:59:34,849] - ThreadPool::destroy(): waiting for thread(3)[0x521520,0x521588,0x5215f0,], try=7
+ WARN root [2016-07-04 11:59:34,962] - ThreadPool::destroy(): waiting for thread(4)[0x4ca658,0x4ca6c0,0x4ca728,0x4ca790,], try=9
+ERROR root [2016-07-04 11:59:35,088] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 11:59:35,088] - TPThread::threadFunc: task 0x589840 not finish, thread.0x5215f0 will exit.
+ WARN root [2016-07-04 11:59:35,149] - ThreadPool::destroy(): waiting for thread(2)[0x521520,0x521588,], try=8
+ WARN root [2016-07-04 11:59:35,262] - ThreadPool::destroy(): waiting for thread(4)[0x4ca658,0x4ca6c0,0x4ca728,0x4ca790,], try=10
+ERROR root [2016-07-04 11:59:35,390] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 11:59:35,390] - TPThread::threadFunc: task 0x5898c0 not finish, thread.0x521588 will exit.
+ERROR root [2016-07-04 11:59:35,399] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 11:59:35,399] - TPThread::threadFunc: task 0x589940 not finish, thread.0x521520 will exit.
+DEBUG root [2016-07-04 11:59:35,549] - TPThread::~TPThread(): 0x5214b8
+DEBUG root [2016-07-04 11:59:35,549] - TPThread::~TPThread(): 0x521520
+DEBUG root [2016-07-04 11:59:35,549] - TPThread::~TPThread(): 0x521588
+DEBUG root [2016-07-04 11:59:35,549] - TPThread::~TPThread(): 0x5215f0
+DEBUG root [2016-07-04 11:59:35,549] - TPThread::~TPThread(): 0x521658
+ WARN root [2016-07-04 11:59:35,549] - ThreadPool::~ThreadPool(): Discarding 4 finished tasks.
+DEBUG root [2016-07-04 11:59:35,549] - ThreadPool::destroy(): successfully!
+ WARN root [2016-07-04 11:59:35,562] - ThreadPool::destroy(): waiting for thread(4)[0x4ca658,0x4ca6c0,0x4ca728,0x4ca790,], try=11
+ WARN root [2016-07-04 11:59:35,862] - ThreadPool::destroy(): waiting for thread(4)[0x4ca658,0x4ca6c0,0x4ca728,0x4ca790,], try=12
+ WARN root [2016-07-04 11:59:36,162] - ThreadPool::destroy(): waiting for thread(4)[0x4ca658,0x4ca6c0,0x4ca728,0x4ca790,], try=13
+ WARN root [2016-07-04 11:59:36,462] - ThreadPool::destroy(): waiting for thread(4)[0x4ca658,0x4ca6c0,0x4ca728,0x4ca790,], try=14
+ WARN root [2016-07-04 11:59:36,762] - ThreadPool::destroy(): waiting for thread(4)[0x4ca658,0x4ca6c0,0x4ca728,0x4ca790,], try=15
+ WARN root [2016-07-04 11:59:37,062] - ThreadPool::destroy(): waiting for thread(4)[0x4ca658,0x4ca6c0,0x4ca728,0x4ca790,], try=16
+ WARN root [2016-07-04 11:59:37,362] - ThreadPool::destroy(): waiting for thread(4)[0x4ca658,0x4ca6c0,0x4ca728,0x4ca790,], try=17
+ERROR root [2016-07-04 11:59:37,523] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 11:59:37,523] - TPThread::threadFunc: task 0x419b250 not finish, thread.0x4ca658 will exit.
+ERROR root [2016-07-04 11:59:37,526] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 11:59:37,526] - TPThread::threadFunc: task 0x419b350 not finish, thread.0x4ca6c0 will exit.
+ WARN root [2016-07-04 11:59:37,662] - ThreadPool::destroy(): waiting for thread(2)[0x4ca728,0x4ca790,], try=18
+ERROR root [2016-07-04 11:59:37,837] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 11:59:37,837] - TPThread::threadFunc: task 0x419b3d0 not finish, thread.0x4ca728 will exit.
+ WARN root [2016-07-04 11:59:37,962] - ThreadPool::destroy(): waiting for thread(1)[0x4ca790,], try=19
+ERROR root [2016-07-04 11:59:38,165] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 11:59:38,165] - TPThread::threadFunc: task 0x419b450 not finish, thread.0x4ca790 will exit.
+DEBUG root [2016-07-04 11:59:38,362] - TPThread::~TPThread(): 0x4ca658
+DEBUG root [2016-07-04 11:59:38,362] - TPThread::~TPThread(): 0x4ca6c0
+DEBUG root [2016-07-04 11:59:38,362] - TPThread::~TPThread(): 0x4ca728
+DEBUG root [2016-07-04 11:59:38,362] - TPThread::~TPThread(): 0x4ca790
+DEBUG root [2016-07-04 11:59:38,362] - TPThread::~TPThread(): 0x41a3230
+ WARN root [2016-07-04 11:59:38,362] - ThreadPool::~ThreadPool(): Discarding 4 finished tasks.
+DEBUG root [2016-07-04 11:59:38,362] - ThreadPool::destroy(): successfully!
+ INFO root [2016-07-04 12:00:07,521] - NetworkInterface::recreateListeningSocket(INTERNAL): bound to all interfaces with default route interface on 192.168.191.1 ( 192.168.191.1:64192 )
+ INFO root [2016-07-04 12:00:07,522] - NetworkInterface::recreateListeningSocket(INTERNAL): address 192.168.191.1:64192, SOMAXCONN=5.
+ INFO root [2016-07-04 12:00:07,649] - ThreadPool::createThreadPool: creating  threadpool...
+ INFO root [2016-07-04 12:00:07,649] - ThreadPool::createThreadPool: successfully(1), newThreadCount=1, normalMaxThreadCount=1, maxThreadCount=16
+ INFO root [2016-07-04 12:00:07,758] - ThreadPool::addTask: new Thread, currThreadCount: 2
+ INFO root [2016-07-04 12:00:07,759] - ThreadPool::addTask: new Thread, currThreadCount: 3
+ INFO root [2016-07-04 12:00:07,760] - ThreadPool::addTask: new Thread, currThreadCount: 4
+ INFO root [2016-07-04 12:00:07,760] - ThreadPool::addTask: new Thread, currThreadCount: 5
+ WARN root [2016-07-04 12:00:08,071] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20290, errorno=10048
+ WARN root [2016-07-04 12:00:08,078] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20290, errorno=10048
+ WARN root [2016-07-04 12:00:08,078] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20290, errorno=10048
+ WARN root [2016-07-04 12:00:08,398] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20358, errorno=10048
+ WARN root [2016-07-04 12:00:08,399] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20358, errorno=10048
+ WARN root [2016-07-04 12:00:08,722] - BundleBroadcast::BundleBroadcast: Cannot bind to port 20429, errorno=10048
+DEBUG root [2016-07-04 12:00:10,744] - ThreadPool::destroy(): starting size 5.
+ WARN root [2016-07-04 12:00:11,044] - ThreadPool::destroy(): waiting for thread(5)[0x3ea658,0x3ea6c0,0x3ea728,0x3ea790,0x4273230,], try=1
+ WARN root [2016-07-04 12:00:11,344] - ThreadPool::destroy(): waiting for thread(4)[0x3ea658,0x3ea6c0,0x3ea728,0x3ea790,], try=2
+ WARN root [2016-07-04 12:00:11,644] - ThreadPool::destroy(): waiting for thread(4)[0x3ea658,0x3ea6c0,0x3ea728,0x3ea790,], try=3
+ WARN root [2016-07-04 12:00:11,944] - ThreadPool::destroy(): waiting for thread(4)[0x3ea658,0x3ea6c0,0x3ea728,0x3ea790,], try=4
+ WARN root [2016-07-04 12:00:12,244] - ThreadPool::destroy(): waiting for thread(4)[0x3ea658,0x3ea6c0,0x3ea728,0x3ea790,], try=5
+ WARN root [2016-07-04 12:00:12,545] - ThreadPool::destroy(): waiting for thread(4)[0x3ea658,0x3ea6c0,0x3ea728,0x3ea790,], try=6
+ WARN root [2016-07-04 12:00:12,845] - ThreadPool::destroy(): waiting for thread(4)[0x3ea658,0x3ea6c0,0x3ea728,0x3ea790,], try=7
+ WARN root [2016-07-04 12:00:13,145] - ThreadPool::destroy(): waiting for thread(4)[0x3ea658,0x3ea6c0,0x3ea728,0x3ea790,], try=8
+ WARN root [2016-07-04 12:00:13,445] - ThreadPool::destroy(): waiting for thread(4)[0x3ea658,0x3ea6c0,0x3ea728,0x3ea790,], try=9
+ WARN root [2016-07-04 12:00:13,749] - ThreadPool::destroy(): waiting for thread(4)[0x3ea658,0x3ea6c0,0x3ea728,0x3ea790,], try=10
+ERROR root [2016-07-04 12:00:13,763] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 12:00:13,763] - TPThread::threadFunc: task 0x426b250 not finish, thread.0x3ea658 will exit.
+ WARN root [2016-07-04 12:00:14,049] - ThreadPool::destroy(): waiting for thread(3)[0x3ea6c0,0x3ea728,0x3ea790,], try=11
+ERROR root [2016-07-04 12:00:14,082] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 12:00:14,082] - TPThread::threadFunc: task 0x426b350 not finish, thread.0x3ea6c0 will exit.
+ WARN root [2016-07-04 12:00:14,349] - ThreadPool::destroy(): waiting for thread(2)[0x3ea728,0x3ea790,], try=12
+ERROR root [2016-07-04 12:00:14,410] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 12:00:14,410] - TPThread::threadFunc: task 0x426b3d0 not finish, thread.0x3ea728 will exit.
+ WARN root [2016-07-04 12:00:14,649] - ThreadPool::destroy(): waiting for thread(1)[0x3ea790,], try=13
+ERROR root [2016-07-04 12:00:14,734] - BundleBroadcast::receive: failed! It can be caused by the firewall, the broadcastaddr, etc.Maybe broadcastaddr is not a LAN ADDR, or the Machine process is not running.
+ WARN root [2016-07-04 12:00:14,734] - TPThread::threadFunc: task 0x426b450 not finish, thread.0x3ea790 will exit.
+DEBUG root [2016-07-04 12:00:15,049] - TPThread::~TPThread(): 0x3ea658
+DEBUG root [2016-07-04 12:00:15,049] - TPThread::~TPThread(): 0x3ea6c0
+DEBUG root [2016-07-04 12:00:15,049] - TPThread::~TPThread(): 0x3ea728
+DEBUG root [2016-07-04 12:00:15,049] - TPThread::~TPThread(): 0x3ea790
+DEBUG root [2016-07-04 12:00:15,049] - TPThread::~TPThread(): 0x4273230
+ WARN root [2016-07-04 12:00:15,049] - ThreadPool::~ThreadPool(): Discarding 4 finished tasks.
+DEBUG root [2016-07-04 12:00:15,049] - ThreadPool::destroy(): successfully!
